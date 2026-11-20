@@ -3,9 +3,37 @@
  <channel>
   <title>jotzudemjan/feed-rss-nba-games</title>
   <link>https://github.com/jotzudemjan/feed-rss-nba-games</link>
-  <description>NBA-Spiele der Saison 2026/27, Stand 19.11.2026, 17:08 Uhr (Europe/Berlin)</description>
+  <description>NBA-Spiele der Saison 2026/27, Stand 20.11.2026, 17:11 Uhr (Europe/Berlin)</description>
   <language>de-de</language>
-  <lastBuildDate>Thu, 19 Nov 2026 16:08 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 16:11 GMT</lastBuildDate>
+   <item>
+    <title>GSW @ MEM</title>
+    <link>https://www.basketball-reference.com/boxscores/202611190MEM.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611190MEM.html</guid>
+    <pubDate>Fri, 20 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>98 – 126</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611190MEM.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>POR @ MIL</title>
+    <link>https://www.basketball-reference.com/boxscores/202611190MIL.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611190MIL.html</guid>
+    <pubDate>Fri, 20 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>124 – 114</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611190MIL.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>NYK @ MIN</title>
+    <link>https://www.basketball-reference.com/boxscores/202611190MIN.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611190MIN.html</guid>
+    <pubDate>Fri, 20 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>102 – 99</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611190MIN.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>LAC @ SAS</title>
+    <link>https://www.basketball-reference.com/boxscores/202611190SAS.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611190SAS.html</guid>
+    <pubDate>Fri, 20 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>112 – 124</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611190SAS.html">Boxscore</a></p>]]></description>
+   </item>
   <item>
    <title>UTA @ LAL</title>
    <link>https://www.basketball-reference.com/boxscores/202611180LAL.html</link>
