@@ -3,9 +3,114 @@
  <channel>
   <title>jotzudemjan/feed-rss-nba-games</title>
   <link>https://github.com/jotzudemjan/feed-rss-nba-games</link>
-  <description>NBA-Spiele der Saison 2026/27, Stand 20.11.2026, 17:11 Uhr (Europe/Berlin)</description>
+  <description>NBA-Spiele der Saison 2026/27, Stand 22.11.2026, 17:10 Uhr (Europe/Berlin)</description>
   <language>de-de</language>
-  <lastBuildDate>Fri, 20 Nov 2026 16:11 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:10 GMT</lastBuildDate>
+   <item>
+    <title>BOS @ SAC</title>
+    <link>https://www.basketball-reference.com/boxscores/202611210SAC.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611210SAC.html</guid>
+    <pubDate>Sun, 22 Nov 2026 03:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>96 – 97</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611210SAC.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>LAC @ DAL</title>
+    <link>https://www.basketball-reference.com/boxscores/202611210DAL.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611210DAL.html</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>100 – 110</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611210DAL.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>MEM @ MIN</title>
+    <link>https://www.basketball-reference.com/boxscores/202611210MIN.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611210MIN.html</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>95 – 104</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611210MIN.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>NOP @ SAS</title>
+    <link>https://www.basketball-reference.com/boxscores/202611210SAS.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611210SAS.html</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>91 – 114</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611210SAS.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>POR @ NYK</title>
+    <link>https://www.basketball-reference.com/boxscores/202611210NYK.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611210NYK.html</guid>
+    <pubDate>Sun, 22 Nov 2026 00:30 GMT</pubDate>
+    <description><![CDATA[<p><strong>96 – 97</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611210NYK.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>MIL @ PHI</title>
+    <link>https://www.basketball-reference.com/boxscores/202611210PHI.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611210PHI.html</guid>
+    <pubDate>Sat, 21 Nov 2026 18:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>129 – 132</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611210PHI.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>HOU @ DEN</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200DEN.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200DEN.html</guid>
+    <pubDate>Sat, 21 Nov 2026 03:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>124 – 133</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200DEN.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>SAC @ LAL</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200LAL.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200LAL.html</guid>
+    <pubDate>Sat, 21 Nov 2026 03:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>104 – 106</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200LAL.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>PHX @ UTA</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200UTA.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200UTA.html</guid>
+    <pubDate>Sat, 21 Nov 2026 02:30 GMT</pubDate>
+    <description><![CDATA[<p><strong>111 – 101</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200UTA.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>WAS @ CHI</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200CHI.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200CHI.html</guid>
+    <pubDate>Sat, 21 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>98 – 94</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200CHI.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>NOP @ OKC</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200OKC.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200OKC.html</guid>
+    <pubDate>Sat, 21 Nov 2026 01:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>120 – 126</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200OKC.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>ORL @ BKN</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200BRK.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200BRK.html</guid>
+    <pubDate>Sat, 21 Nov 2026 00:30 GMT</pubDate>
+    <description><![CDATA[<p><strong>113 – 111</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200BRK.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>IND @ CLE</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200CLE.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200CLE.html</guid>
+    <pubDate>Sat, 21 Nov 2026 00:30 GMT</pubDate>
+    <description><![CDATA[<p><strong>119 – 128</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200CLE.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>TOR @ DET</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200DET.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200DET.html</guid>
+    <pubDate>Sat, 21 Nov 2026 00:30 GMT</pubDate>
+    <description><![CDATA[<p><strong>105 – 102</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200DET.html">Boxscore</a></p>]]></description>
+   </item>
+   <item>
+    <title>CHA @ ATL</title>
+    <link>https://www.basketball-reference.com/boxscores/202611200ATL.html</link>
+    <guid isPermaLink="true">https://www.basketball-reference.com/boxscores/202611200ATL.html</guid>
+    <pubDate>Sat, 21 Nov 2026 00:00 GMT</pubDate>
+    <description><![CDATA[<p><strong>97 – 111</strong></p><p><a href="https://www.basketball-reference.com/boxscores/202611200ATL.html">Boxscore</a></p>]]></description>
+   </item>
    <item>
     <title>GSW @ MEM</title>
     <link>https://www.basketball-reference.com/boxscores/202611190MEM.html</link>
